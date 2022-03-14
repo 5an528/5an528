@@ -26,7 +26,7 @@
  <a href="https://steamcommunity.com/id/5an528/" target="_blank">
    <img align="left" alt="Sayed Atique Newaz | Facebook" width="26px" src="https://github.com/5an528/Database-/blob/main/icons8-steam.svg" />
 </a>
- 
+<br>
 </p>
 <div align="center">
 <h2 align="centre">Visitors Count</h2>  
