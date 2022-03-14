@@ -20,7 +20,13 @@
   <a href="https://www.facebook.com/atique.eros/" target="_blank">
    <img align="left" alt="Sayed Atique Newaz | Facebook" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/facebook.svg" />
 </a>
-
+   <a href="https://www.instagram.com/_ding_dong_so_long_/" target="_blank">
+   <img align="left" alt="Sayed Atique Newaz | Facebook" width="26px" src="https://github.com/wle8300/instagram-logo/blob/master/logo.svg" />
+</a>
+ <a href="https://steamcommunity.com/id/5an528/" target="_blank">
+   <img align="left" alt="Sayed Atique Newaz | Facebook" width="26px" src="https://github.com/5an528/Database-/blob/main/icons8-steam.svg" />
+</a>
+ 
 </p>
 <div align="center">
 <h2 align="centre">Visitors Count</h2>  
