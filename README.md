@@ -1,7 +1,7 @@
 ### Hi there, I'm Sayed Atique Newaz
 
 
- <h3 align="center">A Gαɱҽɾ & A Pɾσɠɾαɱɱҽɾ</h3>
+ <h3 align="center">𝓖𝓪𝓶𝓮𝓻 & 𝓟𝓻𝓸𝓰𝓻𝓪𝓶𝓶𝓮𝓻</h3>
 
 - 🔭 I’m currently working on Software Testing.
 - 🌱 I’m currently learning Data Science.
