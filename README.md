@@ -42,4 +42,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5an528&show_icons=true&theme=cobalt)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=5an528&show_icons=true&locale=en&layout=compact" alt="5an528" /></p>
-<a href="https://github.com/5an528/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=5an528&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
